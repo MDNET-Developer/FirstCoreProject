@@ -1,0 +1,15 @@
+D:\MyProjects\NEW\Core_Bloq_Bootcamp\CoreLayer\bin\Debug\net5.0\CoreLayer.deps.json
+D:\MyProjects\NEW\Core_Bloq_Bootcamp\CoreLayer\bin\Debug\net5.0\CoreLayer.runtimeconfig.json
+D:\MyProjects\NEW\Core_Bloq_Bootcamp\CoreLayer\bin\Debug\net5.0\CoreLayer.runtimeconfig.dev.json
+D:\MyProjects\NEW\Core_Bloq_Bootcamp\CoreLayer\bin\Debug\net5.0\CoreLayer.dll
+D:\MyProjects\NEW\Core_Bloq_Bootcamp\CoreLayer\bin\Debug\net5.0\CoreLayer.pdb
+D:\MyProjects\NEW\Core_Bloq_Bootcamp\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.AssemblyReference.cache
+D:\MyProjects\NEW\Core_Bloq_Bootcamp\CoreLayer\obj\Debug\net5.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\NEW\Core_Bloq_Bootcamp\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfoInputs.cache
+D:\MyProjects\NEW\Core_Bloq_Bootcamp\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfo.cs
+D:\MyProjects\NEW\Core_Bloq_Bootcamp\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.CoreCompileInputs.cache
+D:\MyProjects\NEW\Core_Bloq_Bootcamp\CoreLayer\obj\Debug\net5.0\CoreLayer.dll
+D:\MyProjects\NEW\Core_Bloq_Bootcamp\CoreLayer\obj\Debug\net5.0\refint\CoreLayer.dll
+D:\MyProjects\NEW\Core_Bloq_Bootcamp\CoreLayer\obj\Debug\net5.0\CoreLayer.pdb
+D:\MyProjects\NEW\Core_Bloq_Bootcamp\CoreLayer\obj\Debug\net5.0\CoreLayer.genruntimeconfig.cache
+D:\MyProjects\NEW\Core_Bloq_Bootcamp\CoreLayer\obj\Debug\net5.0\ref\CoreLayer.dll

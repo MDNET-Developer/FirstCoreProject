@@ -1,0 +1,15 @@
+D:\MyProjects\NEW\Core_Bloq_Bootcamp\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+D:\MyProjects\NEW\Core_Bloq_Bootcamp\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+D:\MyProjects\NEW\Core_Bloq_Bootcamp\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+D:\MyProjects\NEW\Core_Bloq_Bootcamp\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+D:\MyProjects\NEW\Core_Bloq_Bootcamp\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+D:\MyProjects\NEW\Core_Bloq_Bootcamp\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+D:\MyProjects\NEW\Core_Bloq_Bootcamp\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\NEW\Core_Bloq_Bootcamp\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+D:\MyProjects\NEW\Core_Bloq_Bootcamp\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+D:\MyProjects\NEW\Core_Bloq_Bootcamp\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+D:\MyProjects\NEW\Core_Bloq_Bootcamp\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+D:\MyProjects\NEW\Core_Bloq_Bootcamp\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+D:\MyProjects\NEW\Core_Bloq_Bootcamp\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+D:\MyProjects\NEW\Core_Bloq_Bootcamp\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
+D:\MyProjects\NEW\Core_Bloq_Bootcamp\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
